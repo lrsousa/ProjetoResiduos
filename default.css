@@ -20,5 +20,9 @@
     font-family: 'Anton', sans-serif;
     font-size: 5em;
     color: white;
-    padding-top: 5%; 
+    padding-top: 5%;
+}
+
+.fonte-menu {
+    font-family: 'Architects Daughter', cursive;
 }
