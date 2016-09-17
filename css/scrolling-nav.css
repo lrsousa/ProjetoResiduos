@@ -39,36 +39,40 @@ html {
 }
 
 .porque-section {
-    height: 100%;
-    padding-top: 150px;
+    height: auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
     text-align: center;
-    background: #eee;
+    background: #68abe3;
 }
-
 .tipos-section {
-    height: 100%;
-    padding-top: 150px;
+    height: auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
     text-align: center;
-    background: #fff;
+    background: #68e36b;
 }
 
 .descartar-section {
-    height: 100%;
-    padding-top: 150px;
+    height: auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
     text-align: center;
-    background: #fff;
+    background: #ffcc50;
 }
 
 .cores-section {
-    height: 100%;
-    padding-top: 150px;
+    height: auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
     text-align: center;
-    background: #eee;
+    background: #eb8ff9;
 }
 
 .duvidas-section {
-    height: 100%;
+    height: auto;
     padding-top: 50px;
+    padding-bottom: 50px;
     text-align: center;
     background: white;
 }
