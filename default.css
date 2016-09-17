@@ -38,6 +38,9 @@ hr {
     font-size: 1.2em;
 }
 
+.fonte-branca {
+    color: white;
+}
 .conteudo {
     margin-top: 25px;
     text-align: justify;
@@ -45,8 +48,12 @@ hr {
     font-size: 1.2em;
 }
 
-.conteudo-img {
+.conteudo-img-lateral {
     margin-top: 30%;
+}
+
+.conteudo-img {
+    margin-top: 30px;
 }
 
 .cor-fundo-header {
