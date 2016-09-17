@@ -3,5 +3,8 @@ hr {
     height: 2px;
     left: 25%;
     top: 0;
-    width: 50%;
+}
+
+.cor-fundo-header {
+    background-color: white !important;
 }
