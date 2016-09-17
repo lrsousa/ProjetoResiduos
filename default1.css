@@ -1,3 +1,7 @@
 hr {
-    border-width: 3px;
+    background: #ccc none repeat scroll 0 0;
+    height: 2px;
+    left: 25%;
+    top: 0;
+    width: 50%;
 }
