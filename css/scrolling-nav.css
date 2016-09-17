@@ -42,14 +42,28 @@ of those sections to manage the look and feel of the site. */
     background-size: cover;
 }
 
-.about-section {
+.porque-section {
     height: 100%;
     padding-top: 150px;
     text-align: center;
     background: #eee;
 }
 
-.services-section {
+.tipos-section {
+    height: 100%;
+    padding-top: 150px;
+    text-align: center;
+    background: #fff;
+}
+
+.descartar-section {
+    height: 100%;
+    padding-top: 150px;
+    text-align: center;
+    background: #fff;
+}
+
+.cores-section {
     height: 100%;
     padding-top: 150px;
     text-align: center;
