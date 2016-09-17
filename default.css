@@ -15,3 +15,10 @@
 .fonte-customizada {
     font-family: 'Raleway', sans-serif;
 }
+
+.fonte-header {
+    font-family: 'Anton', sans-serif;
+    font-size: 5em;
+    color: white;
+    padding-top: 5%; 
+}
