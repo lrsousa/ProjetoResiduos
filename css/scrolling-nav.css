@@ -32,10 +32,10 @@ html {
     padding-top: 150px;
     text-align: center;
     background: url("../images/header.jpg") no-repeat;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+    -webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
 }
 
 .porque-section {
