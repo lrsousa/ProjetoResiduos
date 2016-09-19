@@ -31,14 +31,14 @@ hr {
     font-family: 'Anton', sans-serif;
     font-size: 5em;
     color: white;
-    padding-top: 2%;
+    padding-top: 8%;
     text-shadow: #000 2px 2px 2px;
 }
 .fonte-menu {
     font-size: 1.2em;
 }
 
-.fonte-branca {
+.fonte-branca-titulo, .fonte-branca-conteudo {
     color: white;
 }
 
