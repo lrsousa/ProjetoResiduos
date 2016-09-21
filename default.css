@@ -5,6 +5,10 @@ hr {
     top: 0;
 }
 
+.container-menu {
+    margin-left: 10px;
+}
+
 .logo{
     width: 50px;
     height: 48px;
@@ -13,10 +17,6 @@ hr {
     & img {
         width: 100%;
     }
-}
-
-.recuo-ul-esquerda {
-    margin-left: 50px;
 }
 
 .fonte-titulo {
@@ -34,33 +34,35 @@ hr {
     padding-top: 8%;
     text-shadow: #000 2px 2px 2px;
 }
+
 .fonte-menu {
     font-size: 1.2em;
 }
 
-.fonte-branca-titulo, .fonte-branca-conteudo {
+.fonte-branca {
     color: white;
 }
 
 .conteudo {
     margin-top: 25px;
-    text-align: justify;
     font-size: 1.2em;
 }
 
 .conteudo-img-lateral {
-    margin-top: 30%;
-    width: 100%;
+    padding-top: 40%;
     justify-content: center;
     align-items: center;
+    width: 100%;
+
+}
+
+.recuo-ul-esquerda {
+    margin-left: 30px;
 
 }
 
 .conteudo-img {
-    margin-top: 30px;
-    width: 100%;
-    justify-content: center;
-    align-items: center;
+    float: right;
 }
 
 .conteudo-img-cores {
