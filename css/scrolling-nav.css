@@ -28,14 +28,13 @@ html {
 }
 
 .intro-section {
-    height: 100%;
-    padding-top: 150px;
+    height: auto;
+    padding-top: 100px;
+    padding-bottom: 150px;
     text-align: center;
-    background: url("../images/header.jpg") no-repeat;
-    -webkit-background-size: 100%;
-    -moz-background-size: 100%;
-    -o-background-size: 100%;
-    background-size: 100%;
+    background-image: url("../images/header.jpg");
+    background-size: cover;
+    background-clip: padding-box;
 }
 
 .porque-section {
