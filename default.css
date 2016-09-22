@@ -72,6 +72,10 @@ hr {
     align-items: center;
 }
 
+.conteudo-lista {
+    font-size: 1.2em;
+}
+
 .cor-fundo-header {
     background-color: white !important;
 }
