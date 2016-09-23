@@ -8,11 +8,6 @@ html {
     height: 100%;
 }
 
-@media (max-width: 1201px) {
-    .navbar-nav {display: none;}
-}
-
-
 @media(min-width:767px) {
     .navbar {
         padding: 20px 0;
