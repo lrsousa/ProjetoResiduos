@@ -22,13 +22,8 @@ html {
 }
 
 .intro-section {
+    padding-top: 50px;
     height: auto;
-    padding-top: 100px;
-    padding-bottom: 150px;
-    text-align: center;
-    background-image: url("../images/header.jpg");
-    background-size: cover;
-    background-clip: padding-box;
 }
 
 .porque-section {
