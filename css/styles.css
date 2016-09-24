@@ -1,12 +1,14 @@
 body {
     width: 100%;
     height: 100%;
+    font-family: 'Slabo 27px', serif;
 }
 
 html {
     width: 100%;
     height: 100%;
 }
+
 
 @media(min-width:767px) {
     .navbar {
@@ -46,7 +48,7 @@ html {
     background: #68e36b;
 }
 
-.descartar-section {
+.destino-section {
     height: auto;
     padding-top: 50px;
     padding-bottom: 50px;
