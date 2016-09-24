@@ -13,13 +13,19 @@ hr {
     width: 50px;
     height: 48px;
     margin: auto;
-    overflow: hidden;
-    & img {
-        width: 100%;
-    }
+    overflow: hidden;  
 }
 
-.fonte-titulo {
+.full {
+    background: url("./images/header.jpg") no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    height:100%;
+}
+
+.fonte-menu {
     font-family: 'Raleway', sans-serif;
 }
 
@@ -31,12 +37,10 @@ hr {
     font-family: 'Anton', sans-serif;
     font-size: 5em;
     color: white;
-    padding-top: 8%;
+    padding-top: 20%;
+    padding-bottom: 15%;
     text-shadow: #000 2px 2px 2px;
-}
-
-.fonte-menu {
-    font-size: 1.2em;
+    text-align: center;
 }
 
 .fonte-branca {
@@ -56,11 +60,6 @@ hr {
 
 }
 
-.recuo-ul-esquerda {
-    margin-left: 30px;
-
-}
-
 .conteudo-img {
     float: right;
 }
@@ -70,8 +69,4 @@ hr {
     width: 70%;
     justify-content: center;
     align-items: center;
-}
-
-.cor-fundo-header {
-    background-color: white !important;
 }
