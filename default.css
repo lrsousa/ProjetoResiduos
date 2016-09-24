@@ -57,9 +57,41 @@ hr {
     justify-content: center;
     align-items: center;
     width: 100%;
+}
+
+.conteudo-img-lateral {
+    padding-top: 40%;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.img-direita {
+        padding-top: 20%;
+        float: right;
+        justify-content: center;
+        align-items: center;
+        width: 300px;
+        height: 300px;
+}
+
+.img-esquerda {
+        float: left;
+        justify-content: center;
+        align-items: center;
+        width: 300px;
+        height: 300px;
+}
+
+<<<<<<< HEAD
+=======
+
+.recuo-ul-esquerda {
+    margin-left: 30px;
 
 }
 
+>>>>>>> 53e8571290df63fbbff4b352321bebbdc1ad0a68
 .conteudo-img {
     float: right;
 }
@@ -70,3 +102,14 @@ hr {
     justify-content: center;
     align-items: center;
 }
+<<<<<<< HEAD
+=======
+
+.conteudo-lista {
+    font-size: 1.2em;
+}
+
+.cor-fundo-header {
+    background-color: white !important;
+}
+>>>>>>> 53e8571290df63fbbff4b352321bebbdc1ad0a68
