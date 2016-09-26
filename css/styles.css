@@ -9,7 +9,6 @@ html {
     height: 100%;
 }
 
-
 @media(min-width:767px) {
     .navbar {
         padding: 20px 0;
@@ -25,12 +24,9 @@ html {
 
 .intro-section {
     height: auto;
-    padding-top: 100px;
-    padding-bottom: 150px;
+    padding-top: 50px;
+    padding-bottom: 70px;
     text-align: center;
-    background-image: url("../images/header.jpg");
-    background-size: cover;
-    background-clip: padding-box;
 }
 
 .porque-section {
@@ -38,14 +34,15 @@ html {
     padding-top: 50px;
     padding-bottom: 50px;
     text-align: center;
-    background: #68abe3;
+    background: #3162d2;
 }
+
 .tipos-section {
     height: auto;
     padding-top: 50px;
     padding-bottom: 50px;
     text-align: center;
-    background: #68e36b;
+    background: #5e88e7;
 }
 
 .destino-section {
@@ -53,7 +50,7 @@ html {
     padding-top: 50px;
     padding-bottom: 50px;
     text-align: center;
-    background: #ffcc50;
+    background: #92aae1;
 }
 
 .erres-section {
@@ -61,15 +58,7 @@ html {
       padding-top: 50px;
       padding-bottom: 50px;
       text-align: center;
-      background: purple;
-}
-
-.cores-section {
-    height: auto;
-    padding-top: 50px;
-    padding-bottom: 50px;
-    text-align: center;
-    background: black;
+      background: #bbccf4;
 }
 
 .duvidas-section {

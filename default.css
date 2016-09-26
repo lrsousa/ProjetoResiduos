@@ -17,7 +17,7 @@ hr {
 }
 
 .full {
-    background: url("./images/header.jpg") no-repeat center center;
+    background: url("./images/header2.png") no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -33,7 +33,7 @@ hr {
     font-family: 'Anton', sans-serif;
     font-size: 5em;
     color: white;
-    padding-top: 20%;
+    padding-top: 15%;
     padding-bottom: 15%;
     text-shadow: #000 2px 2px 2px;
     text-align: center;
@@ -44,33 +44,12 @@ hr {
 }
 
 .conteudo {
-    margin-top: 25px;
     font-size: 1.2em;
 }
 
-.conteudo-img-lateral {
-    padding-top: 40%;
-    justify-content: center;
-    align-items: center;
-    width: 100%;
-}
-
-.img-direita {
-        padding-top: 20%;
-        align-items: center;
-        width: 300px;
-        height: 300px;
-        margin:0 20px 10px 0;
-}
-
-.img-esquerda {
-        float: left;
-        justify-content: center;
-        align-items: center;
-        width: 300px;
-        height: 300px;
-        float:left;
-
+.imagem {
+    margin-top: 5%;
+    margin-bottom: 5%;
 }
 
 .centralizarImagem {
@@ -78,8 +57,9 @@ hr {
     display: -webkit-flex; /* Garante compatibilidade com navegador Safari. */
     justify-content: center;
     align-items: center;
+    margin-bottom: 50px;
 }
+
 .tamanho {
-  padding-top: 25%;
-  padding-bottom: 25%;
+  padding-top: 15%;
 }
