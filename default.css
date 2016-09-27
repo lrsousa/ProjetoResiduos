@@ -63,3 +63,16 @@ hr {
 .tamanho {
   padding-top: 15%;
 }
+
+.modal-header{
+     background-color:#7ac5ff;
+}
+
+.modal-content {
+
+    background-color:#7ac5ff;
+}
+
+.modal-footer {
+  background-color:#7ac5ff;
+}
